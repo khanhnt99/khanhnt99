@@ -1,8 +1,4 @@
 ### Hi there 👋
-- System Engineer
-- Cloud Computing
-- Python 
-
 <!--
 **khanhnt99/khanhnt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
