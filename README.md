@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=Gradient)
+![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&hide=javascript,html,c++,matlab&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&hide=javascript,html,c++,matlab&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
