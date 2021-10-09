@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 **khanhnt99/khanhnt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=onedark)
+![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=Gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&hide=javascript,html,c++,matlab&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&hide=javascript,html,c++,matlab&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
