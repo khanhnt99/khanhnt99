@@ -9,6 +9,7 @@
 
 ## Ansible
 - https://github.com/khanhnt99/Ansible
+- https://github.com/khanhnt99/ansible-roles
 - https://github.com/khanhnt99/ansible-role-web-server
 
 ## Openstack
