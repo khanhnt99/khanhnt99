@@ -35,6 +35,10 @@
 - https://github.com/khanhnt99/Cloud-docs
 - https://github.com/khanhnt99/blog-read
 - https://github.com/khanhnt99/research-ci-cd
+- https://github.com/khanhnt99/devops-tools
 
 ## Service Mesh
 - https://github.com/khanhnt99/research-istio
+
+## Database 
+- https://github.com/khanhnt99/databases_rnd
