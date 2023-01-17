@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&count_private=true)
 
-![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=buefy)
+![khanhnt99's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhnt99&show_icons=true&theme=buefy&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnt99&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
